@@ -1,4 +1,4 @@
-import simpleguitk as simplegui
+import simplegui #simpleguitk as 
 import random
 import math
 
