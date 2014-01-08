@@ -3,7 +3,7 @@ coursera-python-learning
 
 each file is a simple game
 
-you can run it on this website: http://www.codeskulptor.org
+you can run it on this website: http://www.codeskulptor.org (you should delete the words " simpleguitk as" in the first line)
 
 or  
 
